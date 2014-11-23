@@ -25,8 +25,7 @@ Want to add new features?
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request [here](https://github.com/asafs/reverse-subtitles/pulls)
 
-Found a but or want to request a new feature?
-1. go [here](https://github.com/asafs/reverse-subtitles/pulls)
+Found a but or want to request a new feature? go [here](https://github.com/asafs/reverse-subtitles/pulls)
 
 
 ## History
