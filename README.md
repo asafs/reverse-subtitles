@@ -13,7 +13,7 @@ When I use any media streamer to stream movies to my TV, usually the Hebrew subt
     ```sh
     $ python rev.py <SRT_FILE>
     ```
-3. If you want to create Context-Menu shortcut, run create_registry_file.py and run add_to_reg.reg. Note: this will only work if you not move the rev.py file. Run the create_registry_file.py at your final foalder. Also, you still need python installed.
+3. If you want to create Context-Menu shortcut, run create_registry_file.py and run add_to_reg.reg. Note: this will only work on windows and if you not move the rev.py file. Run the create_registry_file.py at your final folder. Also, you still need python installed.
 
 ## Contributing
 
