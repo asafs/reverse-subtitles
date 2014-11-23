@@ -52,3 +52,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# pycharm
+.idea
+
+# proj files
+add_to_reg.reg
+remove_from_reg.reg
