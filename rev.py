@@ -37,8 +37,8 @@ def GetFileList(dir):
     return list
 		
 def ReversePuctuation(file, newfile):
-    f = open(file, 'r', encoding="utf-8")
-    nf = open(newfile, 'w', encoding="utf-8")
+    f = open(file, 'r', encoding="Windows-1255")
+    nf = open(newfile, 'w', encoding="Windows-1255")
     
     #print("both files opened")
     for line in f:
